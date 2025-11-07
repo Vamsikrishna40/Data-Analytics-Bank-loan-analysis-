@@ -52,8 +52,3 @@ The project delivers a professional Bank Loan Report fully validated with SQL, e
 - Provides crucial insights such as Good vs Bad Loan distribution and financial losses due to defaulted loans.  
 - Supports data-driven decision-making to adjust lending policies (e.g., reviewing DTI and credit scores).  
 - Demonstrates advanced Power BI skills, including dynamic dashboards and interactive features for stakeholder exploration.
-
-## Author and Contact
-**Author:** Ishant Katiyar  
-**Email:** ishantkatiyar68@gmail.com 
-**Linkedin:** https://www.linkedin.com/in/ishantkatiyar/
